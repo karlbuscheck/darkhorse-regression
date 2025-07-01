@@ -44,4 +44,4 @@ Here's the trail we'll be following:
 
 ## Acknowledgements
 
-This notebook on Lasso, Ridge, and Elastic Net builds on a lecture by Tao Li, Associate Professor in the Department of Information & Analytics at Santa Clara University's Leavey School of Business. Many thanks to Professor Li for delivering lectures that spark continued exploration.
+This notebook builds on a lecture by Tao Li, Associate Professor in the Department of Information & Analytics at Santa Clara University's Leavey School of Business. Many thanks to Professor Li for delivering lectures that spark continued exploration.
